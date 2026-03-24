@@ -1,1 +1,1 @@
-Projeto simples para praticar conceitos básicos de Programção Orientada a Objetos (POO) na linguagem Python.
+Este projeto reúne implementações práticas focadas nos pilares da Programação Orientada a Objetos, como Abstração, Herança, Encapsulamento e Polimorfismo para estudo incial.
